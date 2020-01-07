@@ -3,7 +3,8 @@ Sitio para compartir información relacionada con el Workshop de Bioinfo dictado
 
 ## Notas rápidas
 
-* Leer el programa
+* Leer el programa  
+https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/PROGRAMA%20CURSO%20BIOINFORMATICA%202020.pdf
 * 
 
 ## Links a secuencias fastq
