@@ -6,7 +6,7 @@ Sitio para compartir información relacionada con el Workshop de Bioinfo dictado
 * Leer el programa  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/PROGRAMA%20CURSO%20BIOINFORMATICA%202020.pdf
 * Sitio web Galaxy para registrarse cuanto antes  
-https://usegalaxy.org/
+https://usegalaxy.eu
 
 ## Links a secuencias fastq
 
