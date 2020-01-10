@@ -5,9 +5,9 @@ Sitio para compartir información relacionada con el Workshop de Bioinfo dictado
 
 * Leer el programa  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/PROGRAMA%20CURSO%20BIOINFORMATICA%202020.pdf
-* Descargar archivos proporcionados por Dra. Constanza Cárdenas
+* Descargar archivos proporcionados por Dra. Constanza Cárdenas  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/estructura_epitopes.zip
-* Sitio web Galaxy para registrarse cuanto antes (Sesión Práctica2 | Dra. Sara Cuadros)
+* Sitio web Galaxy para registrarse cuanto antes (Sesión Práctica2 | Dra. Sara Cuadros)  
 https://usegalaxy.eu
 * 
 ## Links a secuencias fastq
