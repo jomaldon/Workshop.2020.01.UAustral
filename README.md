@@ -18,21 +18,21 @@ https://usegalaxy.eu
 
 ### Links a video-tutoriales de la sesión práctica 1 (Dr. Jonathan Maldonado)
 ### Ensamble de Genomas Bacterianos usando Cyverse:Discovery Environment
-* Cómo registrarse en Cyverse
+* Introducciín y entrada a Cyverse  
 https://drive.google.com/open?id=1rZhe1XSbYR4TuOrjaZajVdfs7e7iKR_3
-* Conociendo Cyverse Discovery Environment
+* Conociendo Cyverse Discovery Environment  
 https://drive.google.com/open?id=1znk5rSUXb9DxOztSMtGgHStdxhEN-3u_
-* Descripción de archivos compartidos para el práctico
-https://drive.google.com/file/d/17WLOJOEZxEBdDkemnHIbwcR9CyNDDc36/view?usp=sharing
-* Verificación de calidad de secuencias (reads)
+* Descripción de archivos compartidos para el práctico  
+https://drive.google.com/open?id=17WLOJOEZxEBdDkemnHIbwcR9CyNDDc36
+* Verificación de calidad de secuencias (reads)  
 https://drive.google.com/open?id=1TDNEy0Hn71nmzMQldp2-HUvGB1F7VMxN
-* Limpieza de secuencias (calidad y adaptadores) usando Trimmomatic
+* Limpieza de secuencias (calidad y adaptadores) usando Trimmomatic  
 https://drive.google.com/open?id=1gjNhzEwuTu7S_0Z_TKvzXGsgbrn70Zvr
-* Ensamble de reads con Velvet y revisión de estadísticas del genoma
+* Ensamble de reads con Velvet y revisión de estadísticas del genoma  
 https://drive.google.com/open?id=1Eqa3XZmwxvIFLW3W5vBg-1gMskT86OdS
-* Revisión de "completitud" del genoma ensamblado usando BUSCO
+* Revisión de "completitud" del genoma ensamblado usando BUSCO  
 https://drive.google.com/open?id=1ezxOQBBbfML58Qp4cFjrwIoyvUUkx8sh
-* Anotación estructural y funcional utilizando RAST
+* Anotación estructural y funcional utilizando RAST  
 https://drive.google.com/open?id=1tkn1SwzYJe8EddnCoiNml92lck5LZF4m
 
 
