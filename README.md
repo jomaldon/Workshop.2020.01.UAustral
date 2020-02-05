@@ -15,7 +15,28 @@ http://www.jalview.org/getdown/release
 https://usegalaxy.eu  
 * 
 
-## Links a secuencias fastq
+
+### Links a video-tutoriales de la sesión práctica 1 (Dr. Jonathan Maldonado)
+### Ensamble de Genomas Bacterianos usando Cyverse:Discovery Environment
+* Cómo registrarse en Cyverse
+https://drive.google.com/open?id=1rZhe1XSbYR4TuOrjaZajVdfs7e7iKR_3
+* Conociendo Cyverse Discovery Environment
+https://drive.google.com/open?id=1znk5rSUXb9DxOztSMtGgHStdxhEN-3u_
+* Descripción de archivos compartidos para el práctico
+https://drive.google.com/file/d/17WLOJOEZxEBdDkemnHIbwcR9CyNDDc36/view?usp=sharing
+* Verificación de calidad de secuencias (reads)
+https://drive.google.com/open?id=1TDNEy0Hn71nmzMQldp2-HUvGB1F7VMxN
+* Limpieza de secuencias (calidad y adaptadores) usando Trimmomatic
+https://drive.google.com/open?id=1gjNhzEwuTu7S_0Z_TKvzXGsgbrn70Zvr
+* Ensamble de reads con Velvet y revisión de estadísticas del genoma
+https://drive.google.com/open?id=1Eqa3XZmwxvIFLW3W5vBg-1gMskT86OdS
+* Revisión de "completitud" del genoma ensamblado usando BUSCO
+https://drive.google.com/open?id=1ezxOQBBbfML58Qp4cFjrwIoyvUUkx8sh
+* Anotación estructural y funcional utilizando RAST
+https://drive.google.com/open?id=1tkn1SwzYJe8EddnCoiNml92lck5LZF4m
+
+
+## Links a secuencias fastq de la sesión práctica 1 (ya compartidas en Cyverse)
 
 ### ABRPI-Training
 https://sepsis-omics.github.io/tutorials/modules/data-dna/  
@@ -33,8 +54,3 @@ https://www.ebi.ac.uk/ena/data/view/ERX008638
 ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR022/ERR022075/  
 ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR022/ERR022075/ERR022075_1.fastq.gz  
 ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR022/ERR022075/ERR022075_2.fastq.gz  
-
-
-
-
-
