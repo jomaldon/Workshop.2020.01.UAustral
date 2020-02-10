@@ -5,17 +5,20 @@ Sitio para compartir información relacionada con el Workshop de Bioinfo dictado
 
 * Programa del Workshop  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/PROGRAMA%20CURSO%20BIOINFORMATICA%202020.pdf
+  
 * Sesión 3, Dr. Jonathan Maldonado. Diapositivas  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/S3.Secuenciaci%C3%B3n_de_genomas.pdf
 * Práctico 1, Dr. Jonathan Maldonado. Diapositivas de apoyo  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/P1.CrearCuentas.Cyverse_y_RAST.pdf
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/P1.Ensamble_y_Annot_Func.pdf
+  
 * Sesión 4, Descargar archivos proporcionados por Dra. Constanza Cárdenas  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/P3.estructura_epitopes.zip
 * Descargar SwissPDB Viewer  
 https://spdbv.vital-it.ch/download.html
 * Descargar Jalview  
 http://www.jalview.org/getdown/release
+  
 * Sesión 5, Dra. Sara Cuadros. Diapositivas  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/S5.Predicci%C3%B3n%20de%20rutas%20Metab%C3%B3licas%20(Sara%20Cuadros).pdf
 * Sitio web Galaxy (EU) para registrarse cuanto antes (Sesión Práctica2 | Dra. Sara Cuadros)  
