@@ -5,20 +5,20 @@ Sitio para compartir información relacionada con el Workshop de Bioinfo dictado
 
 * Programa del Workshop  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/PROGRAMA%20CURSO%20BIOINFORMATICA%202020.pdf  
-
+  
 * Sesión 3, Dr. Jonathan Maldonado. Diapositivas  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/S3.Secuenciaci%C3%B3n_de_genomas.pdf
 * Práctico 1, Dr. Jonathan Maldonado. Diapositivas de apoyo  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/P1.CrearCuentas.Cyverse_y_RAST.pdf
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/P1.Ensamble_y_Annot_Func.pdf
-
+  
 * Sesión 4, Descargar archivos proporcionados por Dra. Constanza Cárdenas  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/P3.estructura_epitopes.zip
 * Descargar SwissPDB Viewer  
 https://spdbv.vital-it.ch/download.html  
 * Descargar Jalview  
 http://www.jalview.org/getdown/release  
-
+  
 * Sesión 5, Dra. Sara Cuadros. Diapositivas  
 https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/S5.Predicci%C3%B3n%20de%20rutas%20Metab%C3%B3licas%20(Sara%20Cuadros).pdf
 * Sitio web Galaxy (EU) para registrarse cuanto antes (Sesión Práctica2 | Dra. Sara Cuadros)  
@@ -32,7 +32,7 @@ https://github.com/jomaldon/Workshop.2020.01.UAustral/blob/master/P2.Tutorial%20
 
 ### Links a video-tutoriales de la sesión práctica 1 (Dr. Jonathan Maldonado)
 ### Ensamble de Genomas Bacterianos usando Cyverse:Discovery Environment
-* Introducciín y entrada a Cyverse  
+* Introducción y entrada a Cyverse  
 https://drive.google.com/open?id=1rZhe1XSbYR4TuOrjaZajVdfs7e7iKR_3
 * Conociendo Cyverse Discovery Environment  
 https://drive.google.com/open?id=1znk5rSUXb9DxOztSMtGgHStdxhEN-3u_
@@ -60,7 +60,7 @@ https://swift.rc.nectar.org.au:8888/v1/AUTH_377/public/Microbial_tutorials/mutan
 ### Microbacterium sp. CGR2
 https://www.ncbi.nlm.nih.gov/genome/14190?genome_assembly_id=410147  
 https://de.cyverse.org/dl/d/DE7AEA6E-0CC1-4105-BBAA-823323B3CF63/MbCGR2_n1-B1_R1.fastq  
-https://de.cyverse.org/dl/d/9FC9CA7D-4CA0-4FFA-A59E-08026C407199/MbCGR2_n1-B1_R2.fastq
+https://de.cyverse.org/dl/d/9FC9CA7D-4CA0-4FFA-A59E-08026C407199/MbCGR2_n1-B1_R2.fastq  
 
 ### E. coli
 https://www.biostars.org/p/160377/  
